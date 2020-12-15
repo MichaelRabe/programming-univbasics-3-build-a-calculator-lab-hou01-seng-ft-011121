@@ -2,11 +2,11 @@ def addition(num1, num2)
   p num1 + num2
 end
 
-def subtraction(num1, num2)
+def subtraction(num2, num1)
   p num2 - num1
 end
 
-def division(num1, num2)
+def division(num2, num1)
   p num2/num1
 end
 
